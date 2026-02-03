@@ -1,6 +1,6 @@
 # Deep-Learning-Price-Prediction
 
-Deep learning project on **financial time series forecasting**, focused on the effect of **MLP depth** (number of hidden layers) and its application to **stock price prediction**.
+Deep learning project on **financial time series forecasting**, focused on the effect of **MLP depth** (number of hidden layers), and its application to **stock price prediction**.
 
 ## What this repo contains
 - **Report**: full write-up (methodology, reproduction, critique, extensions)
